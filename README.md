@@ -59,7 +59,9 @@ A 2D platformer game built in MIPS Assembly for the CSCB58 course.
 - **Unit Height:** 4 pixels  
 - **Display Width:** 256 pixels  
 - **Display Height:** 256 pixels  
-- **Base Address:** `0x10008000`  
+- **Base Address:** `0x10008000`
+
+### **Keyboard and Display MMIO Simulator**
 
 ### **Implemented Milestones**  
 - **Milestone 1:** Basic player movement and platforms.  
