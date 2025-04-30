@@ -54,22 +54,22 @@ A 2D platformer game built in MIPS Assembly for the CSCB58 course.
 ---
 
 ## **Technical Details**  
-### **Bitmap Display Configuration**  
+#### **MARS Bitmap Display Configuration**  
 - **Unit Width:** 4 pixels  
 - **Unit Height:** 4 pixels  
 - **Display Width:** 256 pixels  
 - **Display Height:** 256 pixels  
 - **Base Address:** `0x10008000`
 
-### **Keyboard and Display MMIO Simulator**
+#### **MARS Keyboard and Display MMIO Simulator**
 
-### **Implemented Milestones**  
+#### **Implemented Milestones**  
 - **Milestone 1:** Basic player movement and platforms.  
 - **Milestone 2:** Enemies with collision detection.  
 - **Milestone 3:** Shooting mechanics and win/lose conditions.  
 - **Milestone 4:** Additional features (score display, pickup object).  
 
-### **Additional Features**  
+#### **Additional Features**  
 - Moving enemies.  
 - Shooting mechanics.  
 - Win condition (collect pickup).  
